@@ -36,6 +36,3 @@ Address: Nairobi, Kenya
 
 
 
- License
-
-This project is licensed under the MIT License.
